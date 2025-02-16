@@ -1,18 +1,8 @@
 
 :root {
-    --font-size1: "Anek Latin", serif;
-    --font-size2: "Blinker", serif;
-    --font-size3: "Tourney", serif;
-    --font-size4: "Bungee Shade", serif;
-    --font-size5: "Genos", serif;
-    --font-size-h2: "Baumans", serif;
-    --font-size7: "Edu SA Beginner", serif;
     --font-size-h1: "Anta", serif;
-    --font-size9: "Rubik Doodle Shadow", serif;
-    --font-size10: "Edu TAS Beginner", serif;
-    --font-size11: "Bungee Hairline", serif;
-    --font-size12: "Rubik Marker Hatch", serif;
-    --font-size13: "Quicksand", serif;
+    --font-size-h2: "Baumans", serif;
+    --font-size-footer: "Blinker", serif;
 }
 
 * {
@@ -86,7 +76,7 @@ footer {
     text-align: center;
     color: rgba(255, 255, 255, 0.933);
     margin-top: 0.5rem;
-    font-family: var(--font-size2);
+    font-family: var(--font-size-footer);
     font-size: 1.1rem;
 }
 
